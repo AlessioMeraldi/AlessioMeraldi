@@ -2,7 +2,7 @@
 
 I'm a **Front-End Developer** with a hybrid background in **Computer Science (BSc)** and **Theory & Technology of Communication (MSc)**.
 
-My goal in software development is to **make the complex simple**—because technical value only truly emerges when it's backed by a clear, accessible user experience.
+My goal in software development is to **make the complex simple** — because technical value only truly emerges when it's backed by a clear, accessible user experience.
 
 I focus on designing and building modern **websites** and **SPAs**, alongside experience developing **VR environments in Unity** and both collaborating within and coordinating small operational teams.
 
